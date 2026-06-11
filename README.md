@@ -2,7 +2,7 @@
 
 **A production-ready TypeScript boilerplate for building [Model Context Protocol](https://modelcontextprotocol.io) servers.** Stop copy-pasting from half-finished examples — clone this, run it, and ship a real MCP server in minutes.
 
-[![CI](https://github.com/REPLACE_ME/mcp-forge/actions/workflows/ci.yml/badge.svg)](https://github.com/REPLACE_ME/mcp-forge/actions)
+[![CI](https://github.com/itsnokan/mcp-forge/actions/workflows/ci.yml/badge.svg)](https://github.com/itsnokan/mcp-forge/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6.svg)](./tsconfig.json)
 
@@ -26,7 +26,7 @@ Most MCP "starter" repos give you a single `echo` tool and leave you to figure o
 ## Quickstart
 
 ```bash
-git clone https://github.com/REPLACE_ME/mcp-forge.git
+git clone https://github.com/itsnokan/mcp-forge.git
 cd mcp-forge
 npm install
 npm run build
